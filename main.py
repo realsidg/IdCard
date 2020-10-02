@@ -10,6 +10,7 @@ Output is saved in output/ with png at output/png/ and pdf at output/pdf/
 Python Modules required:
 1.img2pdf
 2.PIL (Pillow)
+#import more files
 """
 
 import csv
